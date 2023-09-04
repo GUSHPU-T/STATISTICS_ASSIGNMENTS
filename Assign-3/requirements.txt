@@ -1,0 +1,7 @@
+pandas 
+numpy 
+seaborn 
+matplotlib.pyplot 
+scipy.stats 
+statsmodels.formula.api import ols
+statsmodels.stats.anova import anova_lm
